@@ -5,6 +5,7 @@ body {
     color: #666666;
     background: #f73333;
     font-family: 'Open Sans', sans-serif;
+    border-radius: 10%;
 }
 
 a {
@@ -309,7 +310,8 @@ a:focus {
 /**********************************/
 .header {
     position: relative;
-    background: #ffffff;
+    background:#30d4b7fa;
+    border-radius: 10%;
 }
 
 .header .content-inner {
@@ -424,8 +426,9 @@ a:focus {
 .about {
     position: relative;
     padding: 60px 30px;
-    background: #ffffff;
+    background: #d5ee9c;
     border-bottom: 30px solid #f73333;
+    border-radius: 17%;
 }
 
 
@@ -492,8 +495,9 @@ a:focus {
 .education {
     position: relative;
     padding: 60px 30px;
-    background: #ffffff;
+    background: #d5ee9c;
     border-bottom: 30px solid #f73333;
+    border-radius: 17%;
 }
 
 .education .edu-col {
@@ -565,8 +569,9 @@ a:focus {
 .experience {
     position: relative;
     padding: 60px 30px;
-    background: #ffffff;
     border-bottom: 30px solid #f73333;
+    border-radius: 15%;
+    background: #d5ee9c;
 }
 
 .experience .exp-col {
@@ -652,8 +657,9 @@ a:focus {
 .service {
     position: relative;
     padding: 60px 30px 30px 30px;
-    background: #ffffff;
     border-bottom: 30px solid #f73333;
+    border-radius: 17%;
+    background: #d5ee9c;
 }
 
 .service .srv-col {
@@ -699,8 +705,9 @@ a:focus {
 .portfolio {
     position: relative;
     padding: 60px 30px 30px 30px;
-    background: #ffffff;
     border-bottom: 30px solid #f73333;
+    border-radius: 17%;
+    background: #d5ee9c;
 }
 
 .portfolio #portfolio-flters {
@@ -984,7 +991,8 @@ a:focus {
 .contact {
     position: relative;
     padding: 60px 30px 30px 30px;
-    background: #ffffff;
+    border-radius: 17%;
+    background: #d5ee9c;
 }
 
 .contact .contact-info {
