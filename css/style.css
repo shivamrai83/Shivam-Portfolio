@@ -2,7 +2,7 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #666666;
+    /* color: #666666; */
     background: #222222;
     font-family: 'Open Sans', sans-serif;
     border-radius: 10%;
@@ -310,7 +310,7 @@ a:focus {
 /**********************************/
 .header {
     position: relative;
-    background:#30d4b7fa;
+    background:#1e8774fa;
     border-radius: 10%;
 }
 
@@ -386,7 +386,7 @@ a:focus {
 
 .large-btn .btn:hover::after {
     width: 100%;
-    background: rgba(255, 255, 255, .1);
+    background: #FF6F61;
 }
 
 
@@ -426,7 +426,7 @@ a:focus {
 .about {
     position: relative;
     padding: 60px 30px;
-    background: #d5ee9c;
+    background: #1e8774fa;
     border-bottom: 30px solid #222222;
     border-radius: 17%;
 }
@@ -495,7 +495,7 @@ a:focus {
 .education {
     position: relative;
     padding: 60px 30px;
-    background: #d5ee9c;
+    background: #1e8774fa;
     border-bottom: 30px solid #222222;
     border-radius: 17%;
 }
@@ -571,7 +571,7 @@ a:focus {
     padding: 60px 30px;
     border-bottom: 30px solid #222222;
     border-radius: 15%;
-    background: #d5ee9c;
+    background: #1e8774fa;
 }
 
 .experience .exp-col {
@@ -659,7 +659,7 @@ a:focus {
     padding: 60px 30px 30px 30px;
     border-bottom: 30px solid #222222;
     border-radius: 17%;
-    background: #d5ee9c;
+    background: #1e8774fa;
 }
 
 .service .srv-col {
@@ -707,7 +707,7 @@ a:focus {
     padding: 60px 30px 30px 30px;
     border-bottom: 30px solid #222222;
     border-radius: 17%;
-    background: #d5ee9c;
+    background: #1e8774fa;
 }
 
 .portfolio #portfolio-flters {
@@ -992,7 +992,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     border-radius: 17%;
-    background: #d5ee9c;
+    background: #1e8774fa;
 }
 
 .contact .contact-info {
