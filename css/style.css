@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #f73333;
+    background: #222222;
     font-family: 'Open Sans', sans-serif;
     border-radius: 10%;
 }
@@ -48,7 +48,7 @@ a:focus {
     width: 100%;
     padding: 15px;
     float: left;
-    background: #f73333;
+    background: #222222;
 }
 
 .wrapper .sidebar-header,
@@ -113,7 +113,7 @@ a:focus {
         content: "";
         width: 100%;
         height: 30px;
-        background: #f73333;
+        background: #222222;
         z-index: 1;
     }
     
@@ -316,7 +316,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    background: url(../img/profile1.png) right bottom no-repeat;
     background-size: contain;
 }
 
@@ -352,7 +352,7 @@ a:focus {
 
 .large-btn .content-inner {
     font-size: 0;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
 }
 
 .large-btn .btn {
@@ -427,7 +427,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #d5ee9c;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
     border-radius: 17%;
 }
 
@@ -496,7 +496,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #d5ee9c;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
     border-radius: 17%;
 }
 
@@ -569,7 +569,7 @@ a:focus {
 .experience {
     position: relative;
     padding: 60px 30px;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
     border-radius: 15%;
     background: #d5ee9c;
 }
@@ -657,7 +657,7 @@ a:focus {
 .service {
     position: relative;
     padding: 60px 30px 30px 30px;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
     border-radius: 17%;
     background: #d5ee9c;
 }
@@ -705,7 +705,7 @@ a:focus {
 .portfolio {
     position: relative;
     padding: 60px 30px 30px 30px;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
     border-radius: 17%;
     background: #d5ee9c;
 }
@@ -854,7 +854,7 @@ a:focus {
 .review {
     position: relative;
     background: #ffffff;
-    border-bottom: 30px solid #f73333;
+    border-bottom: 30px solid #222222;
 }
 
 .review .content-inner {
@@ -1082,7 +1082,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 30px 30px 0 30px;
-    background: #f73333;
+    background: #222222;
 }
 
 .footer .col-md-6:last-child {
